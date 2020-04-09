@@ -1,0 +1,55 @@
+body {
+    background-color: #ADD8E6;
+}
+h1 {
+    color: darkblue;
+    font-family: sans-serif;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 50px;
+    margin-top: 30px;
+}
+#first-section {
+    background-color: white;
+    border-radius: 25px;
+    border-bottom-left-radius: 25px;
+    width: 27%;
+    height: 800px;
+    font-family: sans-serif;
+    font-size: 75%;
+    position: relative;
+    left: 500px;
+    top: -100px;
+    bottom: 100px;
+    padding: 10px 10px 15px 35px;
+}
+#second-section {
+    position: relative;
+    left: 600px;
+    top: -45px;
+}
+#third-section {
+    position: relative;
+    left: 600px;
+    justify-content: 30px;
+    top: -50px;
+}
+a {
+    text-decoration: none;
+}
+#welcome {
+    color: grey;
+    position: relative;
+    left: 20px;
+    top: -10px;
+    font-size: 15px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+#create {
+    position: relative;
+    font-family: sans-serif;
+    left: 50px;
+    top: 10px;
+    font-size: 20px;
+}
